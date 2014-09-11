@@ -5,6 +5,9 @@ var Config = {
   BOSH_SERVICE: 'http://vm.local:5280/http-bind',
   XMPP_SERVER:  'vm.local',
   PUBSUB_NODE:  'pubsub.demo.v1'
+  
+  USERNAME: 'admin',
+  PASSWORD: '123456'
 }
 
 var MessageType = {
